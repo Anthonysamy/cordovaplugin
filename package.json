@@ -1,0 +1,25 @@
+{
+  "name": "zptprinterbosco",
+  "version": "0.0.1",
+  "description": "This is the Zepra Printer Plugin",
+  "cordova": {
+    "id": "cordova-plugin-zptprinter",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthonysamy/cordovaplugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Anthonysamy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anthonysamy/cordovaplugin/issues"
+  },
+  "homepage": "https://github.com/Anthonysamy/cordovaplugin#readme"
+}
